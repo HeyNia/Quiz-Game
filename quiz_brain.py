@@ -1,4 +1,4 @@
-from operator import truediv
+
 
 
 class QuizBrain:
